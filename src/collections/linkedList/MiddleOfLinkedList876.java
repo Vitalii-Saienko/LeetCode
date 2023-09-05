@@ -1,4 +1,4 @@
-package Collections.LinkedList;
+package collections.linkedList;
 
 /*
 Given the head of a singly linked list, return the middle node of the linked list.
